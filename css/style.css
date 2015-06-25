@@ -1,0 +1,20 @@
+.storyboard-img{
+  width: 7rem;
+  border-radius: 4px;
+  width: 200px;
+  padding: 2px;
+}
+
+a.storyboard-lightbox{
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 4px;
+  transition: background-color 0.5s ease-out;
+}
+
+.storyboard-img:hover {
+  background-color: #4ae;
+  transition: none; 
+}
+
+
