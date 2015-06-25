@@ -69,3 +69,20 @@ img.char-img{
   padding: 2px;
   margin: 30px;
 }
+
+.sb-page-header{
+  background-color: #EEBB11 !important;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+  color: #fff;
+  background-color: #00CCCC !important;
+}
+div.banner-img{
+  position: relative;
+}
+img#clip{
+  position: absolute;
+  top: -120px;
+  right: 100px;
+  max-height: 180px;
+}
