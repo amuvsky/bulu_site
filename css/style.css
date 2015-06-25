@@ -36,3 +36,16 @@ img.design-img:hover {
   background-color: #4ae;
   transition: none; 
 }
+
+img.preview-img {
+  width: 7rem;
+  border-radius: 4px;
+  width: 250px;
+  padding: 2px;
+  margin: 30px;
+}
+
+div.newspost{
+margin-bottom: 100px;
+line-height: 32px;
+}
