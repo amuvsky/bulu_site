@@ -61,3 +61,11 @@ div.newspost{
 margin-bottom: 100px;
 line-height: 32px;
 }
+
+img.char-img{
+  width: 7rem;
+  border-radius: 4px;
+  width: 250px;
+  padding: 2px;
+  margin: 30px;
+}
