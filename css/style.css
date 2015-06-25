@@ -37,12 +37,24 @@ img.design-img:hover {
   transition: none; 
 }
 
+a.preview-lightbox{
+  background-color: #fff;
+  border-radius: 4px;
+  transition: background-color 0.5s ease-out;
+ }
+
+
 img.preview-img {
   width: 7rem;
   border-radius: 4px;
   width: 250px;
   padding: 2px;
   margin: 30px;
+}
+
+img.preview-img:hover {
+  background-color: #4ae;
+  transition: none; 
 }
 
 div.newspost{
