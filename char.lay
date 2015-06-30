@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>心‧儀 Bulu</title>
+    <!-- CSS -->
+    <link href="favicon.ico" rel="shortcut icon" />
+    <style type="text/css">figure {margin: 0;}</style>
+<link href="http://startbootstrap.com/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/startbootstrap.css" rel="stylesheet">
+    <link href="css/lightbox.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Fonts -->
+    <link href="css/montserrat.css" rel="stylesheet" type="text/css">
+    <link href="css/opensans.css" rel="stylesheet" type="text/css"> 
+</head>
+
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">home</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="news.html">NEWS</a>
+                    </li>
+                    <li>
+                      <a href="story.html">STORY</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">CHARCTER<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="bulu.html">BULU</a>
+                            </li>
+                            <li>
+                                <a href="baba.html">BABA</a>
+                            </li>
+                            <li>
+                                <a href="shop_keeper.html">SHOP KEEPER</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">DESIGN<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="sketch.html">SKETCH</a>
+                            </li>
+                            <li>
+                                <a href="scene.html">SCENE</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="video.html">VIDEO</a>
+                    </li>
+                    <li>
+                      <a href="about.html">ABOUT</a>
+                    </li>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <header class="sb-page-header">
+        <div class="container">
+          <p>心‧儀</p>
+            <h1>BULU</h1>
+          <div class="banner-img"><img id="clip" src="images/banner.png" /></div>
+        </div>
+    </header>
+
+
+    <div class="container">
+    <!-------------------------------------------------------------------->
+      
+    <div class="sidemenu col-md-4">
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="bulu.html">BULU</a></li>
+        <li><a href="baba.html">BABA</a></li>
+        <li><a href="shop_keeper.html">SHOP KEEPER</a></li>
+      </ul>
+    </div>
+
+	
+    <div class="character col-md-8">
+      
+	  <img class="char-img" src="images/characters/bulu/BULU.png" />
+	  <img class="char-img" src="images/characters/bulu/bulu2d.png" />
+	  <img class="char-img" src="images/characters/bulu/MINIBULU.png" />
+    <img class="char-img" src="images/characters/bulu/minibulu2d.png" />
+    <br>
+	  <p>紫眼藍毛，喜愛高科技的紳士，<br>
+	  臉上有長長的八字鬍、穿著長長的皮鞋。<br>
+	  頭上有兩搓像樹苗般的毛。<br>
+	  </p>
+	  
+	  
+	  <p>在劇情中出現的不同時期的BULU；<br>
+	  隨著年紀增長，頭上的樹苗會越變越小。<br>
+	  </p>
+    </div>
+
+    <!-------------------------------------------------------------------->
+    </div>
+
+    <hr>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 footer-below">
+                        <p>
+                        <p class="copyright text-muted">Copyright &copy; BULU. 2015
+                        <br>Website by Amu Wei
+                        <br>
+                        <br>Based on <a href="http://getbootstrap.com/">Bootstrap</a>.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/lightbox.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="http://startbootstrap.com/assets/js/startbootstrap.js"></script>
+</body>
+
+</html>
